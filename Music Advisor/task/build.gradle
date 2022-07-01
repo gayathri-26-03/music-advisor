@@ -1,0 +1,29 @@
+//plugins {
+//    id 'org.springframework.boot' version '2.6.3'
+//    id 'io.spring.dependency-management' version '1.0.11.RELEASE'
+//    id 'java'
+//}
+//
+//apply plugin: 'java-library-distribution'
+apply plugin: 'java'
+apply plugin: 'application'
+
+group 'advisor'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'com.google.code.gson:gson:+'
+}
+
+jar {
+    manifest {
+        attributes 'Main-Class' : 'advisor.Main'
+    }
+    from {
+        configurations.compile.collect { it.isDirectory() ? it : zipTree(it) }
+    }
+}

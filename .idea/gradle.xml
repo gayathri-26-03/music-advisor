@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Music Advisor/task" />
+            <option value="$PROJECT_DIR$/Music Advisor/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Music Advisor/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Music Advisor/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Music Advisor/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Music Advisor/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Music Advisor/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Music Advisor/task/out" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous classes properties/Calculator" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous classes properties/Create instance" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous classes properties/Fixing the code" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous classes properties/Managing a process" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous classes properties/My possibilities" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous classes properties/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous classes/An anonymous class with three methods" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous classes/Find a correct syntax" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous classes/String reverser" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous classes/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous classes/What about context" />
+            <option value="$PROJECT_DIR$/Topics/Generic methods/Check for null" />
+            <option value="$PROJECT_DIR$/Topics/Generic methods/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

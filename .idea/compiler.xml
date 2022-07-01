@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Music_Advisor.Music_Advisor-task-build-classes-java.main" target="11" />
+      <module name="Music_Advisor.Music_Advisor-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Music_Advisor.Music_Advisor-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Music_Advisor.Music_Advisor-task-build-reports-tests.main" target="11" />
+      <module name="Music_Advisor.Music_Advisor-task-build-test-results.main" target="11" />
+      <module name="Music_Advisor.Music_Advisor-task-build-tmp.main" target="11" />
+      <module name="Music_Advisor.Music_Advisor-task-out.main" target="11" />
+      <module name="Music_Advisor.Music_Advisor-task.main" target="11" />
+      <module name="Music_Advisor.Topics-Anonymous_classes-An_anonymous_class_with_three_methods.main" target="11" />
+      <module name="Music_Advisor.Topics-Anonymous_classes-Find_a_correct_syntax.main" target="11" />
+      <module name="Music_Advisor.Topics-Anonymous_classes-String_reverser.main" target="11" />
+      <module name="Music_Advisor.Topics-Anonymous_classes-Theory.main" target="11" />
+      <module name="Music_Advisor.Topics-Anonymous_classes-What_about_context.main" target="11" />
+      <module name="Music_Advisor.Topics-Anonymous_classes_properties-Calculator.main" target="11" />
+      <module name="Music_Advisor.Topics-Anonymous_classes_properties-Create_instance.main" target="11" />
+      <module name="Music_Advisor.Topics-Anonymous_classes_properties-Fixing_the_code.main" target="11" />
+      <module name="Music_Advisor.Topics-Anonymous_classes_properties-Managing_a_process.main" target="11" />
+      <module name="Music_Advisor.Topics-Anonymous_classes_properties-My_possibilities.main" target="11" />
+      <module name="Music_Advisor.Topics-Anonymous_classes_properties-Theory.main" target="11" />
+      <module name="Music_Advisor.Topics-Generic_methods-Check_for_null.main" target="11" />
+      <module name="Music_Advisor.Topics-Generic_methods-Theory.main" target="11" />
+      <module name="Music_Advisor.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
